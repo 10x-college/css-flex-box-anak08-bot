@@ -10,3 +10,5 @@
 
 **Hint**
 შეეცადეთ მშობელი თეგებით(ვრაპერებით) აკონტროლოთ ელემენტების განლაგება
+
+![preview.png](homework-15(Ana.Kurtiashvili)/preview.png)
